@@ -1,0 +1,17 @@
+.venv/
+.env
+__pycache__/
+*.py[cod]
+*.so
+
+# Dataset artifacts
+data/
+
+# Training outputs
+runs/
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
